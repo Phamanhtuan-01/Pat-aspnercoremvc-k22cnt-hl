@@ -1,0 +1,291 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\mon thay chung\\KK22CNT-NET-HL\\Pat-aspnercoremvc-k22cnt-hl\\PatDay03View\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E373C0E-22AE-41CC-8215-E5ED578CBA4D}|PatDay03View.csproj|d:\\mon thay chung\\kk22cnt-net-hl\\pat-aspnercoremvc-k22cnt-hl\\patday03view\\views\\pathome\\patviewloop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E373C0E-22AE-41CC-8215-E5ED578CBA4D}|PatDay03View.csproj|solutionrelative:views\\pathome\\patviewloop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E373C0E-22AE-41CC-8215-E5ED578CBA4D}|PatDay03View.csproj|d:\\mon thay chung\\kk22cnt-net-hl\\pat-aspnercoremvc-k22cnt-hl\\patday03view\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4E373C0E-22AE-41CC-8215-E5ED578CBA4D}|PatDay03View.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E373C0E-22AE-41CC-8215-E5ED578CBA4D}|PatDay03View.csproj|d:\\mon thay chung\\kk22cnt-net-hl\\pat-aspnercoremvc-k22cnt-hl\\patday03view\\views\\shared\\_patlayout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4E373C0E-22AE-41CC-8215-E5ED578CBA4D}|PatDay03View.csproj|solutionrelative:views\\shared\\_patlayout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E373C0E-22AE-41CC-8215-E5ED578CBA4D}|PatDay03View.csproj|d:\\mon thay chung\\kk22cnt-net-hl\\pat-aspnercoremvc-k22cnt-hl\\patday03view\\views\\shared\\_patlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E373C0E-22AE-41CC-8215-E5ED578CBA4D}|PatDay03View.csproj|solutionrelative:views\\shared\\_patlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E373C0E-22AE-41CC-8215-E5ED578CBA4D}|PatDay03View.csproj|d:\\mon thay chung\\kk22cnt-net-hl\\pat-aspnercoremvc-k22cnt-hl\\patday03view\\views\\shared\\_patfooter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E373C0E-22AE-41CC-8215-E5ED578CBA4D}|PatDay03View.csproj|solutionrelative:views\\shared\\_patfooter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E373C0E-22AE-41CC-8215-E5ED578CBA4D}|PatDay03View.csproj|d:\\mon thay chung\\kk22cnt-net-hl\\pat-aspnercoremvc-k22cnt-hl\\patday03view\\views\\shared\\components\\patdemo\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E373C0E-22AE-41CC-8215-E5ED578CBA4D}|PatDay03View.csproj|solutionrelative:views\\shared\\components\\patdemo\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E373C0E-22AE-41CC-8215-E5ED578CBA4D}|PatDay03View.csproj|d:\\mon thay chung\\kk22cnt-net-hl\\pat-aspnercoremvc-k22cnt-hl\\patday03view\\views\\pathome\\patviewif.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E373C0E-22AE-41CC-8215-E5ED578CBA4D}|PatDay03View.csproj|solutionrelative:views\\pathome\\patviewif.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E373C0E-22AE-41CC-8215-E5ED578CBA4D}|PatDay03View.csproj|d:\\mon thay chung\\kk22cnt-net-hl\\pat-aspnercoremvc-k22cnt-hl\\patday03view\\views\\pathome\\patabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E373C0E-22AE-41CC-8215-E5ED578CBA4D}|PatDay03View.csproj|solutionrelative:views\\pathome\\patabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E373C0E-22AE-41CC-8215-E5ED578CBA4D}|PatDay03View.csproj|d:\\mon thay chung\\kk22cnt-net-hl\\pat-aspnercoremvc-k22cnt-hl\\patday03view\\viewcomponents\\patdemoviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E373C0E-22AE-41CC-8215-E5ED578CBA4D}|PatDay03View.csproj|solutionrelative:viewcomponents\\patdemoviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E373C0E-22AE-41CC-8215-E5ED578CBA4D}|PatDay03View.csproj|d:\\mon thay chung\\kk22cnt-net-hl\\pat-aspnercoremvc-k22cnt-hl\\patday03view\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E373C0E-22AE-41CC-8215-E5ED578CBA4D}|PatDay03View.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E373C0E-22AE-41CC-8215-E5ED578CBA4D}|PatDay03View.csproj|d:\\mon thay chung\\kk22cnt-net-hl\\pat-aspnercoremvc-k22cnt-hl\\patday03view\\controllers\\pathomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E373C0E-22AE-41CC-8215-E5ED578CBA4D}|PatDay03View.csproj|solutionrelative:controllers\\pathomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E373C0E-22AE-41CC-8215-E5ED578CBA4D}|PatDay03View.csproj|d:\\mon thay chung\\kk22cnt-net-hl\\pat-aspnercoremvc-k22cnt-hl\\patday03view\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E373C0E-22AE-41CC-8215-E5ED578CBA4D}|PatDay03View.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E373C0E-22AE-41CC-8215-E5ED578CBA4D}|PatDay03View.csproj|d:\\mon thay chung\\kk22cnt-net-hl\\pat-aspnercoremvc-k22cnt-hl\\patday03view\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E373C0E-22AE-41CC-8215-E5ED578CBA4D}|PatDay03View.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E373C0E-22AE-41CC-8215-E5ED578CBA4D}|PatDay03View.csproj|d:\\mon thay chung\\kk22cnt-net-hl\\pat-aspnercoremvc-k22cnt-hl\\patday03view\\views\\shared\\_patleftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E373C0E-22AE-41CC-8215-E5ED578CBA4D}|PatDay03View.csproj|solutionrelative:views\\shared\\_patleftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E373C0E-22AE-41CC-8215-E5ED578CBA4D}|PatDay03View.csproj|d:\\mon thay chung\\kk22cnt-net-hl\\pat-aspnercoremvc-k22cnt-hl\\patday03view\\views\\shared\\_patnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E373C0E-22AE-41CC-8215-E5ED578CBA4D}|PatDay03View.csproj|solutionrelative:views\\shared\\_patnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E373C0E-22AE-41CC-8215-E5ED578CBA4D}|PatDay03View.csproj|d:\\mon thay chung\\kk22cnt-net-hl\\pat-aspnercoremvc-k22cnt-hl\\patday03view\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E373C0E-22AE-41CC-8215-E5ED578CBA4D}|PatDay03View.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\mon thay chung\\KK22CNT-NET-HL\\Pat-aspnercoremvc-k22cnt-hl\\PatDay03View\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "D:\\mon thay chung\\KK22CNT-NET-HL\\Pat-aspnercoremvc-k22cnt-hl\\PatDay03View\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-21T07:37:13.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PatViewIf.cshtml",
+              "DocumentMoniker": "D:\\mon thay chung\\KK22CNT-NET-HL\\Pat-aspnercoremvc-k22cnt-hl\\PatDay03View\\Views\\PatHome\\PatViewIf.cshtml",
+              "RelativeDocumentMoniker": "Views\\PatHome\\PatViewIf.cshtml",
+              "ToolTip": "D:\\mon thay chung\\KK22CNT-NET-HL\\Pat-aspnercoremvc-k22cnt-hl\\PatDay03View\\Views\\PatHome\\PatViewIf.cshtml",
+              "RelativeToolTip": "Views\\PatHome\\PatViewIf.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T15:34:04.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\mon thay chung\\KK22CNT-NET-HL\\Pat-aspnercoremvc-k22cnt-hl\\PatDay03View\\Views\\Shared\\Components\\PatDemo\\Default.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\PatDemo\\Default.cshtml",
+              "ToolTip": "D:\\mon thay chung\\KK22CNT-NET-HL\\Pat-aspnercoremvc-k22cnt-hl\\PatDay03View\\Views\\Shared\\Components\\PatDemo\\Default.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Components\\PatDemo\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-21T06:50:05.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_PatFooter.cshtml",
+              "DocumentMoniker": "D:\\mon thay chung\\KK22CNT-NET-HL\\Pat-aspnercoremvc-k22cnt-hl\\PatDay03View\\Views\\Shared\\_PatFooter.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_PatFooter.cshtml",
+              "ToolTip": "D:\\mon thay chung\\KK22CNT-NET-HL\\Pat-aspnercoremvc-k22cnt-hl\\PatDay03View\\Views\\Shared\\_PatFooter.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_PatFooter.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T16:00:39.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_PatLayout.cshtml",
+              "DocumentMoniker": "D:\\mon thay chung\\KK22CNT-NET-HL\\Pat-aspnercoremvc-k22cnt-hl\\PatDay03View\\Views\\Shared\\_PatLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_PatLayout.cshtml",
+              "ToolTip": "D:\\mon thay chung\\KK22CNT-NET-HL\\Pat-aspnercoremvc-k22cnt-hl\\PatDay03View\\Views\\Shared\\_PatLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_PatLayout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T15:13:27.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_PatLayout.cshtml.css",
+              "DocumentMoniker": "D:\\mon thay chung\\KK22CNT-NET-HL\\Pat-aspnercoremvc-k22cnt-hl\\PatDay03View\\Views\\Shared\\_PatLayout.cshtml.css",
+              "RelativeDocumentMoniker": "Views\\Shared\\_PatLayout.cshtml.css",
+              "ToolTip": "D:\\mon thay chung\\KK22CNT-NET-HL\\Pat-aspnercoremvc-k22cnt-hl\\PatDay03View\\Views\\Shared\\_PatLayout.cshtml.css",
+              "RelativeToolTip": "Views\\Shared\\_PatLayout.cshtml.css",
+              "ViewState": "AgIAADUAAAAAAAAAAAAwwEkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-21T07:29:01.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PatViewLoop.cshtml",
+              "DocumentMoniker": "D:\\mon thay chung\\KK22CNT-NET-HL\\Pat-aspnercoremvc-k22cnt-hl\\PatDay03View\\Views\\PatHome\\PatViewLoop.cshtml",
+              "RelativeDocumentMoniker": "Views\\PatHome\\PatViewLoop.cshtml",
+              "ToolTip": "D:\\mon thay chung\\KK22CNT-NET-HL\\Pat-aspnercoremvc-k22cnt-hl\\PatDay03View\\Views\\PatHome\\PatViewLoop.cshtml",
+              "RelativeToolTip": "Views\\PatHome\\PatViewLoop.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T15:34:34.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PatAbout.cshtml",
+              "DocumentMoniker": "D:\\mon thay chung\\KK22CNT-NET-HL\\Pat-aspnercoremvc-k22cnt-hl\\PatDay03View\\Views\\PatHome\\PatAbout.cshtml",
+              "RelativeDocumentMoniker": "Views\\PatHome\\PatAbout.cshtml",
+              "ToolTip": "D:\\mon thay chung\\KK22CNT-NET-HL\\Pat-aspnercoremvc-k22cnt-hl\\PatDay03View\\Views\\PatHome\\PatAbout.cshtml",
+              "RelativeToolTip": "Views\\PatHome\\PatAbout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T15:19:17.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PatDemoViewComponent.cs",
+              "DocumentMoniker": "D:\\mon thay chung\\KK22CNT-NET-HL\\Pat-aspnercoremvc-k22cnt-hl\\PatDay03View\\ViewComponents\\PatDemoViewComponent.cs",
+              "RelativeDocumentMoniker": "ViewComponents\\PatDemoViewComponent.cs",
+              "ToolTip": "D:\\mon thay chung\\KK22CNT-NET-HL\\Pat-aspnercoremvc-k22cnt-hl\\PatDay03View\\ViewComponents\\PatDemoViewComponent.cs",
+              "RelativeToolTip": "ViewComponents\\PatDemoViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T06:34:15.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\mon thay chung\\KK22CNT-NET-HL\\Pat-aspnercoremvc-k22cnt-hl\\PatDay03View\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "D:\\mon thay chung\\KK22CNT-NET-HL\\Pat-aspnercoremvc-k22cnt-hl\\PatDay03View\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T06:44:17.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PatHomeController.cs",
+              "DocumentMoniker": "D:\\mon thay chung\\KK22CNT-NET-HL\\Pat-aspnercoremvc-k22cnt-hl\\PatDay03View\\Controllers\\PatHomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PatHomeController.cs",
+              "ToolTip": "D:\\mon thay chung\\KK22CNT-NET-HL\\Pat-aspnercoremvc-k22cnt-hl\\PatDay03View\\Controllers\\PatHomeController.cs",
+              "RelativeToolTip": "Controllers\\PatHomeController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T15:14:54.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\mon thay chung\\KK22CNT-NET-HL\\Pat-aspnercoremvc-k22cnt-hl\\PatDay03View\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\mon thay chung\\KK22CNT-NET-HL\\Pat-aspnercoremvc-k22cnt-hl\\PatDay03View\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T15:13:49.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\mon thay chung\\KK22CNT-NET-HL\\Pat-aspnercoremvc-k22cnt-hl\\PatDay03View\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\mon thay chung\\KK22CNT-NET-HL\\Pat-aspnercoremvc-k22cnt-hl\\PatDay03View\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T15:14:14.83Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_PatLeftMenu.cshtml",
+              "DocumentMoniker": "D:\\mon thay chung\\KK22CNT-NET-HL\\Pat-aspnercoremvc-k22cnt-hl\\PatDay03View\\Views\\Shared\\_PatLeftMenu.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_PatLeftMenu.cshtml",
+              "ToolTip": "D:\\mon thay chung\\KK22CNT-NET-HL\\Pat-aspnercoremvc-k22cnt-hl\\PatDay03View\\Views\\Shared\\_PatLeftMenu.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_PatLeftMenu.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T16:06:40.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_PatNavBar.cshtml",
+              "DocumentMoniker": "D:\\mon thay chung\\KK22CNT-NET-HL\\Pat-aspnercoremvc-k22cnt-hl\\PatDay03View\\Views\\Shared\\_PatNavBar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_PatNavBar.cshtml",
+              "ToolTip": "D:\\mon thay chung\\KK22CNT-NET-HL\\Pat-aspnercoremvc-k22cnt-hl\\PatDay03View\\Views\\Shared\\_PatNavBar.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_PatNavBar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T15:49:25.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\mon thay chung\\KK22CNT-NET-HL\\Pat-aspnercoremvc-k22cnt-hl\\PatDay03View\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\mon thay chung\\KK22CNT-NET-HL\\Pat-aspnercoremvc-k22cnt-hl\\PatDay03View\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T15:29:32.008Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

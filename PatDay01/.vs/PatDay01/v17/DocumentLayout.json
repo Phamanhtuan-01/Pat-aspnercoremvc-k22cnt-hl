@@ -3,13 +3,13 @@
   "WorkspaceRootPath": "D:\\mon thay chung\\KK22CNT-NET-HL\\Pat-aspnercoremvc-k22cnt-hl\\PatDay01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4BB2E041-A636-4519-9230-D760492FBFF5}|..\\PatDay01Demo2\\PatDay01Demo2.csproj|d:\\mon thay chung\\kk22cnt-net-hl\\pat-aspnercoremvc-k22cnt-hl\\patday01demo2\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4BB2E041-A636-4519-9230-D760492FBFF5}|..\\PatDay01Demo2\\PatDay01Demo2.csproj|d:\\mon thay chung\\kk22cnt-net-hl\\pat-aspnercoremvc-k22cnt-hl\\patday01demo2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4BB2E041-A636-4519-9230-D760492FBFF5}|..\\PatDay01Demo2\\PatDay01Demo2.csproj|d:\\mon thay chung\\kk22cnt-net-hl\\pat-aspnercoremvc-k22cnt-hl\\patday01demo2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4BB2E041-A636-4519-9230-D760492FBFF5}|..\\PatDay01Demo2\\PatDay01Demo2.csproj|d:\\mon thay chung\\kk22cnt-net-hl\\pat-aspnercoremvc-k22cnt-hl\\patday01demo2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4BB2E041-A636-4519-9230-D760492FBFF5}|..\\PatDay01Demo2\\PatDay01Demo2.csproj|d:\\mon thay chung\\kk22cnt-net-hl\\pat-aspnercoremvc-k22cnt-hl\\patday01demo2\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{313562C1-E93D-459A-9E1B-EF4EBE6BF947}|PatDay01.csproj|d:\\mon thay chung\\kk22cnt-net-hl\\pat-aspnercoremvc-k22cnt-hl\\patday01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,17 +23,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "D:\\mon thay chung\\KK22CNT-NET-HL\\Pat-aspnercoremvc-k22cnt-hl\\PatDay01Demo2\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "..\\PatDay01Demo2\\Views\\Home\\Privacy.cshtml",
               "ToolTip": "D:\\mon thay chung\\KK22CNT-NET-HL\\Pat-aspnercoremvc-k22cnt-hl\\PatDay01Demo2\\Views\\Home\\Privacy.cshtml",
               "RelativeToolTip": "..\\PatDay01Demo2\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-18T17:12:58.969Z",
               "EditorCaption": ""
@@ -46,14 +46,14 @@
               "RelativeDocumentMoniker": "..\\PatDay01Demo2\\Views\\Home\\Index.cshtml",
               "ToolTip": "D:\\mon thay chung\\KK22CNT-NET-HL\\Pat-aspnercoremvc-k22cnt-hl\\PatDay01Demo2\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "..\\PatDay01Demo2\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-18T17:12:12.801Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\mon thay chung\\KK22CNT-NET-HL\\Pat-aspnercoremvc-k22cnt-hl\\PatDay01Demo2\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "..\\PatDay01Demo2\\Views\\Shared\\_Layout.cshtml",
@@ -74,8 +74,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T17:03:51.08Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-18T17:03:51.08Z"
             },
             {
               "$type": "Bookmark",

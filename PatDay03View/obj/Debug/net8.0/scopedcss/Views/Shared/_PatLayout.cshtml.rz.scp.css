@@ -1,0 +1,82 @@
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+/* Toàn bộ nền trang */
+body[b-44hwukkyws] {
+    background-color: #f5f8fa;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* Khối chứa thông tin sinh viên */
+.student-info[b-44hwukkyws] {
+    background-color: #e6f7ff;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+/* Tiêu đề thông tin sinh viên */
+.student-info h2[b-44hwukkyws] {
+    color: #0056b3;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 10px;
+}
+
+/* Menu danh mục */
+.sidebar[b-44hwukkyws], .sidebar-right[b-44hwukkyws] {
+    background-color: #fff;
+    padding: 15px;
+    margin-top: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+}
+
+/* Tiêu đề danh mục */
+.sidebar h3[b-44hwukkyws], .sidebar-right h3[b-44hwukkyws] {
+    background-color: #1b6ec2;
+    color: white;
+    padding: 10px;
+    border-radius: 6px;
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+
+/* Danh sách mục */
+.sidebar ul[b-44hwukkyws], .sidebar-right ul[b-44hwukkyws] {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.sidebar li[b-44hwukkyws], .sidebar-right li[b-44hwukkyws] {
+    padding: 10px;
+    border-bottom: 1px solid #eee;
+    transition: background 0.3s ease;
+    cursor: pointer;
+}
+
+.sidebar li:hover[b-44hwukkyws], .sidebar-right li:hover[b-44hwukkyws] {
+    background-color: #f0f8ff;
+    border-left: 4px solid #1b6ec2;
+}
+
+/* Định dạng link */
+a[b-44hwukkyws] {
+    color: #1b6ec2;
+    text-decoration: none;
+}
+
+a:hover[b-44hwukkyws] {
+    text-decoration: underline;
+}
+
+/* Footer */
+.footer[b-44hwukkyws] {
+    background-color: #ffffff;
+    text-align: center;
+    box-shadow: 0 -2px 5px rgba(0,0,0,0.05);
+}
