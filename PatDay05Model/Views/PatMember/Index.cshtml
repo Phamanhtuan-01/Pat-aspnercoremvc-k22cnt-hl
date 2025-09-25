@@ -1,0 +1,60 @@
+﻿@model IEnumerable<PatDay05Model.Models.PatMember>
+
+@{
+    ViewData["Title"] = "Danh sách thành viên";
+}
+
+<h1 class="text-center alert alert-heading">@ViewData["Title"]</h1>
+
+<p>
+    <a asp-action="PatCreate" class="btn btn-primary">Thêm mới</a>
+</p>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.MemberId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UserName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FullName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Password)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th>Chức năng</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MemberId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.UserName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FullName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Password)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Email)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "PatEdit", new { id = item.MemberId }) |
+                    @Html.ActionLink("Details", "PatDetails", new { id = item.MemberId }) |
+                    @Html.ActionLink("Delete", "PatDelete", new { id = item.MemberId })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

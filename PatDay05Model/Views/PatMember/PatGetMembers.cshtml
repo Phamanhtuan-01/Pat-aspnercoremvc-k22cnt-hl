@@ -1,0 +1,35 @@
+﻿﻿
+    @{
+        ViewData["Title"] = "Danh sách thành viên";
+        // Chuyển đổi kiểu
+        var members = Model as List<PatDay05Model.Models.PatMember>;
+        var stt = 1;
+    }
+
+    <h1>@ViewData["Title"]</h1>
+    <hr />
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>STT</th>
+                <th>Member Id</th>
+                <th>FullName</th>
+                <th>UserName</th>
+                <th>Email</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in members)
+            {
+                <tr>
+                    <td>@stt</td>
+                    <td>@item.MemberId</td>
+                    <td>@item.FullName</td>
+                    <td>@item.UserName</td>
+                    <td>@item.Email</td>
+                </tr>
+
+                stt++;
+            }
+        </tbody>
+    </table>

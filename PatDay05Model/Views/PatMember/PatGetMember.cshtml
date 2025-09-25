@@ -1,0 +1,15 @@
+﻿﻿
+    @{
+        ViewData["Title"] = "Thông tin thành viên";
+        // Chuyển đổi kiểu
+        var patMember = @ViewBag.patMember as PatDay05Model.Models.PatMember;
+    }
+
+    <h1>@ViewData["Title"]</h1>
+
+    <p>Member Id: @ViewBag.patMember.MemberId </p>
+    <p>FullName: @patMember.FullName</p>
+    <p>UserName: @patMember.UserName</p>
+    <p>Password: @patMember.Password</p>
+    <p>Email: @patMember.Email</p>
+    <hr />
