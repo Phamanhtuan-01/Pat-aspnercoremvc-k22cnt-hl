@@ -1,15 +1,45 @@
-﻿﻿
-    @{
-        ViewData["Title"] = "Thông tin thành viên";
-        // Chuyển đổi kiểu
-        var patMember = @ViewBag.patMember as PatDay05Model.Models.PatMember;
-    }
+﻿@{
+    ViewData["Title"] = "Thông tin thành viên";
+    var patMember = ViewBag.patMember as PatDay05Model.Models.PatMember;
+}
 
-    <h1>@ViewData["Title"]</h1>
+<h2 class="text-center my-4">@ViewData["Title"]</h2>
 
-    <p>Member Id: @ViewBag.patMember.MemberId </p>
-    <p>FullName: @patMember.FullName</p>
-    <p>UserName: @patMember.UserName</p>
-    <p>Password: @patMember.Password</p>
-    <p>Email: @patMember.Email</p>
-    <hr />
+<div class="row justify-content-center">
+    <div class="col-md-6">
+        <div class="card shadow-lg border-0 rounded-3">
+            <div class="card-header bg-primary text-white text-center fw-bold">
+                Thông tin chi tiết
+            </div>
+            <div class="card-body">
+                <table class="table table-bordered mb-0">
+                    <tr>
+                        <th style="width: 30%">Member Id</th>
+                        <td>@patMember?.MemberId</td>
+                    </tr>
+                    <tr>
+                        <th>Full Name</th>
+                        <td>@patMember?.FullName</td>
+                    </tr>
+                    <tr>
+                        <th>User Name</th>
+                        <td>@patMember?.UserName</td>
+                    </tr>
+                    <tr>
+                        <th>Password</th>
+                        <td>@patMember?.Password</td>
+                    </tr>
+                    <tr>
+                        <th>Email</th>
+                        <td>@patMember?.Email</td>
+                    </tr>
+                </table>
+            </div>
+            <div class="card-footer text-center">
+                <a asp-controller="PatMember" asp-action="PatGetMembers" class="btn btn-outline-primary btn-sm">
+                    ← Quay lại danh sách
+                </a>
+            </div>
+        </div>
+    </div>
+</div>

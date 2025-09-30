@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "D:\\mon thay chung\\KK22CNT-NET-HL\\Pat-aspnercoremvc-k22cnt-hl\\PatDay05Model\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C731A9C2-7E4E-4A17-8E4B-E5EA3F00371A}|PatDay05Model.csproj|d:\\mon thay chung\\kk22cnt-net-hl\\pat-aspnercoremvc-k22cnt-hl\\patday05model\\controllers\\patmembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C731A9C2-7E4E-4A17-8E4B-E5EA3F00371A}|PatDay05Model.csproj|solutionrelative:controllers\\patmembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C731A9C2-7E4E-4A17-8E4B-E5EA3F00371A}|PatDay05Model.csproj|d:\\mon thay chung\\kk22cnt-net-hl\\pat-aspnercoremvc-k22cnt-hl\\patday05model\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C731A9C2-7E4E-4A17-8E4B-E5EA3F00371A}|PatDay05Model.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C731A9C2-7E4E-4A17-8E4B-E5EA3F00371A}|PatDay05Model.csproj|d:\\mon thay chung\\kk22cnt-net-hl\\pat-aspnercoremvc-k22cnt-hl\\patday05model\\views\\patmember\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C731A9C2-7E4E-4A17-8E4B-E5EA3F00371A}|PatDay05Model.csproj|solutionrelative:views\\patmember\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C731A9C2-7E4E-4A17-8E4B-E5EA3F00371A}|PatDay05Model.csproj|d:\\mon thay chung\\kk22cnt-net-hl\\pat-aspnercoremvc-k22cnt-hl\\patday05model\\views\\patmember\\patgetmembers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C731A9C2-7E4E-4A17-8E4B-E5EA3F00371A}|PatDay05Model.csproj|solutionrelative:views\\patmember\\patgetmembers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C731A9C2-7E4E-4A17-8E4B-E5EA3F00371A}|PatDay05Model.csproj|d:\\mon thay chung\\kk22cnt-net-hl\\pat-aspnercoremvc-k22cnt-hl\\patday05model\\views\\patmember\\patgetmember.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C731A9C2-7E4E-4A17-8E4B-E5EA3F00371A}|PatDay05Model.csproj|solutionrelative:views\\patmember\\patgetmember.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C731A9C2-7E4E-4A17-8E4B-E5EA3F00371A}|PatDay05Model.csproj|d:\\mon thay chung\\kk22cnt-net-hl\\pat-aspnercoremvc-k22cnt-hl\\patday05model\\views\\patmember\\patedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C731A9C2-7E4E-4A17-8E4B-E5EA3F00371A}|PatDay05Model.csproj|solutionrelative:views\\patmember\\patedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C731A9C2-7E4E-4A17-8E4B-E5EA3F00371A}|PatDay05Model.csproj|d:\\mon thay chung\\kk22cnt-net-hl\\pat-aspnercoremvc-k22cnt-hl\\patday05model\\views\\patmember\\patdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -15,16 +31,24 @@
       "RelativeMoniker": "D:0:0:{C731A9C2-7E4E-4A17-8E4B-E5EA3F00371A}|PatDay05Model.csproj|solutionrelative:views\\patmember\\patdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C731A9C2-7E4E-4A17-8E4B-E5EA3F00371A}|PatDay05Model.csproj|d:\\mon thay chung\\kk22cnt-net-hl\\pat-aspnercoremvc-k22cnt-hl\\patday05model\\views\\patmember\\patedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C731A9C2-7E4E-4A17-8E4B-E5EA3F00371A}|PatDay05Model.csproj|solutionrelative:views\\patmember\\patedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C731A9C2-7E4E-4A17-8E4B-E5EA3F00371A}|PatDay05Model.csproj|d:\\mon thay chung\\kk22cnt-net-hl\\pat-aspnercoremvc-k22cnt-hl\\patday05model\\views\\patmember\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C731A9C2-7E4E-4A17-8E4B-E5EA3F00371A}|PatDay05Model.csproj|solutionrelative:views\\patmember\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C731A9C2-7E4E-4A17-8E4B-E5EA3F00371A}|PatDay05Model.csproj|d:\\mon thay chung\\kk22cnt-net-hl\\pat-aspnercoremvc-k22cnt-hl\\patday05model\\views\\patmember\\patcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C731A9C2-7E4E-4A17-8E4B-E5EA3F00371A}|PatDay05Model.csproj|solutionrelative:views\\patmember\\patcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C731A9C2-7E4E-4A17-8E4B-E5EA3F00371A}|PatDay05Model.csproj|d:\\mon thay chung\\kk22cnt-net-hl\\pat-aspnercoremvc-k22cnt-hl\\patday05model\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C731A9C2-7E4E-4A17-8E4B-E5EA3F00371A}|PatDay05Model.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C731A9C2-7E4E-4A17-8E4B-E5EA3F00371A}|PatDay05Model.csproj|d:\\mon thay chung\\kk22cnt-net-hl\\pat-aspnercoremvc-k22cnt-hl\\patday05model\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C731A9C2-7E4E-4A17-8E4B-E5EA3F00371A}|PatDay05Model.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C731A9C2-7E4E-4A17-8E4B-E5EA3F00371A}|PatDay05Model.csproj|d:\\mon thay chung\\kk22cnt-net-hl\\pat-aspnercoremvc-k22cnt-hl\\patday05model\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C731A9C2-7E4E-4A17-8E4B-E5EA3F00371A}|PatDay05Model.csproj|solutionrelative:views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C731A9C2-7E4E-4A17-8E4B-E5EA3F00371A}|PatDay05Model.csproj|d:\\mon thay chung\\kk22cnt-net-hl\\pat-aspnercoremvc-k22cnt-hl\\patday05model\\controllers\\patmembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C731A9C2-7E4E-4A17-8E4B-E5EA3F00371A}|PatDay05Model.csproj|solutionrelative:controllers\\patmembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,78 +66,156 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PatDelete.cshtml",
-              "DocumentMoniker": "D:\\mon thay chung\\KK22CNT-NET-HL\\Pat-aspnercoremvc-k22cnt-hl\\PatDay05Model\\Views\\PatMember\\PatDelete.cshtml",
-              "RelativeDocumentMoniker": "Views\\PatMember\\PatDelete.cshtml",
-              "ToolTip": "D:\\mon thay chung\\KK22CNT-NET-HL\\Pat-aspnercoremvc-k22cnt-hl\\PatDay05Model\\Views\\PatMember\\PatDelete.cshtml",
-              "RelativeToolTip": "Views\\PatMember\\PatDelete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-25T15:22:06.443Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PatDetails.cshtml",
-              "DocumentMoniker": "D:\\mon thay chung\\KK22CNT-NET-HL\\Pat-aspnercoremvc-k22cnt-hl\\PatDay05Model\\Views\\PatMember\\PatDetails.cshtml",
-              "RelativeDocumentMoniker": "Views\\PatMember\\PatDetails.cshtml",
-              "ToolTip": "D:\\mon thay chung\\KK22CNT-NET-HL\\Pat-aspnercoremvc-k22cnt-hl\\PatDay05Model\\Views\\PatMember\\PatDetails.cshtml",
-              "RelativeToolTip": "Views\\PatMember\\PatDetails.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-25T15:20:06.811Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PatEdit.cshtml",
-              "DocumentMoniker": "D:\\mon thay chung\\KK22CNT-NET-HL\\Pat-aspnercoremvc-k22cnt-hl\\PatDay05Model\\Views\\PatMember\\PatEdit.cshtml",
-              "RelativeDocumentMoniker": "Views\\PatMember\\PatEdit.cshtml",
-              "ToolTip": "D:\\mon thay chung\\KK22CNT-NET-HL\\Pat-aspnercoremvc-k22cnt-hl\\PatDay05Model\\Views\\PatMember\\PatEdit.cshtml",
-              "RelativeToolTip": "Views\\PatMember\\PatEdit.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAABQAAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-25T15:17:11.355Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "PatCreate.cshtml",
               "DocumentMoniker": "D:\\mon thay chung\\KK22CNT-NET-HL\\Pat-aspnercoremvc-k22cnt-hl\\PatDay05Model\\Views\\PatMember\\PatCreate.cshtml",
               "RelativeDocumentMoniker": "Views\\PatMember\\PatCreate.cshtml",
               "ToolTip": "D:\\mon thay chung\\KK22CNT-NET-HL\\Pat-aspnercoremvc-k22cnt-hl\\PatDay05Model\\Views\\PatMember\\PatCreate.cshtml",
               "RelativeToolTip": "Views\\PatMember\\PatCreate.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-25T15:07:57.849Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
+              "Title": "PatGetMember.cshtml",
+              "DocumentMoniker": "D:\\mon thay chung\\KK22CNT-NET-HL\\Pat-aspnercoremvc-k22cnt-hl\\PatDay05Model\\Views\\PatMember\\PatGetMember.cshtml",
+              "RelativeDocumentMoniker": "Views\\PatMember\\PatGetMember.cshtml",
+              "ToolTip": "D:\\mon thay chung\\KK22CNT-NET-HL\\Pat-aspnercoremvc-k22cnt-hl\\PatDay05Model\\Views\\PatMember\\PatGetMember.cshtml",
+              "RelativeToolTip": "Views\\PatMember\\PatGetMember.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T15:11:27.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\mon thay chung\\KK22CNT-NET-HL\\Pat-aspnercoremvc-k22cnt-hl\\PatDay05Model\\Views\\PatMember\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\PatMember\\Index.cshtml",
               "ToolTip": "D:\\mon thay chung\\KK22CNT-NET-HL\\Pat-aspnercoremvc-k22cnt-hl\\PatDay05Model\\Views\\PatMember\\Index.cshtml",
               "RelativeToolTip": "Views\\PatMember\\Index.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-25T15:01:18.481Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PatDelete.cshtml",
+              "DocumentMoniker": "D:\\mon thay chung\\KK22CNT-NET-HL\\Pat-aspnercoremvc-k22cnt-hl\\PatDay05Model\\Views\\PatMember\\PatDelete.cshtml",
+              "RelativeDocumentMoniker": "Views\\PatMember\\PatDelete.cshtml",
+              "ToolTip": "D:\\mon thay chung\\KK22CNT-NET-HL\\Pat-aspnercoremvc-k22cnt-hl\\PatDay05Model\\Views\\PatMember\\PatDelete.cshtml",
+              "RelativeToolTip": "Views\\PatMember\\PatDelete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T15:22:06.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PatDetails.cshtml",
+              "DocumentMoniker": "D:\\mon thay chung\\KK22CNT-NET-HL\\Pat-aspnercoremvc-k22cnt-hl\\PatDay05Model\\Views\\PatMember\\PatDetails.cshtml",
+              "RelativeDocumentMoniker": "Views\\PatMember\\PatDetails.cshtml",
+              "ToolTip": "D:\\mon thay chung\\KK22CNT-NET-HL\\Pat-aspnercoremvc-k22cnt-hl\\PatDay05Model\\Views\\PatMember\\PatDetails.cshtml",
+              "RelativeToolTip": "Views\\PatMember\\PatDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T15:20:06.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PatEdit.cshtml",
+              "DocumentMoniker": "D:\\mon thay chung\\KK22CNT-NET-HL\\Pat-aspnercoremvc-k22cnt-hl\\PatDay05Model\\Views\\PatMember\\PatEdit.cshtml",
+              "RelativeDocumentMoniker": "Views\\PatMember\\PatEdit.cshtml",
+              "ToolTip": "D:\\mon thay chung\\KK22CNT-NET-HL\\Pat-aspnercoremvc-k22cnt-hl\\PatDay05Model\\Views\\PatMember\\PatEdit.cshtml",
+              "RelativeToolTip": "Views\\PatMember\\PatEdit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T15:17:11.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\mon thay chung\\KK22CNT-NET-HL\\Pat-aspnercoremvc-k22cnt-hl\\PatDay05Model\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\mon thay chung\\KK22CNT-NET-HL\\Pat-aspnercoremvc-k22cnt-hl\\PatDay05Model\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAswFwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T15:02:29.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PatGetMembers.cshtml",
+              "DocumentMoniker": "D:\\mon thay chung\\KK22CNT-NET-HL\\Pat-aspnercoremvc-k22cnt-hl\\PatDay05Model\\Views\\PatMember\\PatGetMembers.cshtml",
+              "RelativeDocumentMoniker": "Views\\PatMember\\PatGetMembers.cshtml",
+              "ToolTip": "D:\\mon thay chung\\KK22CNT-NET-HL\\Pat-aspnercoremvc-k22cnt-hl\\PatDay05Model\\Views\\PatMember\\PatGetMembers.cshtml",
+              "RelativeToolTip": "Views\\PatMember\\PatGetMembers.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T15:11:31.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\mon thay chung\\KK22CNT-NET-HL\\Pat-aspnercoremvc-k22cnt-hl\\PatDay05Model\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\mon thay chung\\KK22CNT-NET-HL\\Pat-aspnercoremvc-k22cnt-hl\\PatDay05Model\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T22:21:35.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\mon thay chung\\KK22CNT-NET-HL\\Pat-aspnercoremvc-k22cnt-hl\\PatDay05Model\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\mon thay chung\\KK22CNT-NET-HL\\Pat-aspnercoremvc-k22cnt-hl\\PatDay05Model\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T22:21:41.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "D:\\mon thay chung\\KK22CNT-NET-HL\\Pat-aspnercoremvc-k22cnt-hl\\PatDay05Model\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "D:\\mon thay chung\\KK22CNT-NET-HL\\Pat-aspnercoremvc-k22cnt-hl\\PatDay05Model\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-30T22:11:49.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "PatMemberController.cs",
               "DocumentMoniker": "D:\\mon thay chung\\KK22CNT-NET-HL\\Pat-aspnercoremvc-k22cnt-hl\\PatDay05Model\\Controllers\\PatMemberController.cs",
               "RelativeDocumentMoniker": "Controllers\\PatMemberController.cs",
               "ToolTip": "D:\\mon thay chung\\KK22CNT-NET-HL\\Pat-aspnercoremvc-k22cnt-hl\\PatDay05Model\\Controllers\\PatMemberController.cs",
               "RelativeToolTip": "Controllers\\PatMemberController.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAowCAAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAswCAAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-25T14:33:51.481Z",
               "EditorCaption": ""
